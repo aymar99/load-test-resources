@@ -1,2 +1,4 @@
 rootProject.name = 'load-test-resources'
+include 'simple-rest-api'
+include 'load-testing-script'
 
